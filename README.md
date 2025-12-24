@@ -1,4 +1,4 @@
-## Привет! Я [Твоё Имя] 🔥
+## Привет! Я Вячеслав 🔥
 <a href='https://t.me/slepta'><img align='left' alt="telegram" src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white" height='22px'/></a>
 <br/>
 
