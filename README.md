@@ -45,11 +45,14 @@
 <br>
 <br>
 
-### 📊 Активность на GitHub
-<a href='https://github.com/BymBu?tab=repositories'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=BymBu&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" alt="Статистика" height="165"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BymBu&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Языки" height="165"/>
+## 📈 Моя GitHub-активность
+
+<!-- 1. Полоса коммитов (с альтернативным сервером) -->
+<a href="https://git.io/streak-stats">
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=BymBu&theme=dark&hide_border=true&border_radius=10&card_width=500" alt="GitHub Streak" />
 </a>
+
+
 
 <br>
 <br>
