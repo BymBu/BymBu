@@ -51,7 +51,7 @@
 | Проект | Описание | Стек |
 | :--- | :--- | :--- |
 | **[SecureAccess](https://github.com/BymBu/SecureAccessNestJS)** *(Pinned)* | OAuth 2.0 Authorization Server с PKCE, token rotation и защитой от brute-force | NestJS, PostgreSQL, JWT |
-| **[Прибайкалец]()** *(private repo)* | Информационный портал газеты с SSR, админкой PDF-архива и модерацией | Next.js 16, Strapi, Docker, Nginx |
+| **[Прибайкалец](https://pribaikalec.ru)** *(private repo)* | Информационный портал газеты с SSR, админкой PDF-архива и модерацией | Next.js 16, Strapi, Docker, Nginx |
 | **[Зырянск: Карта Памяти](https://map-of-ziryansk.vercel.app)** | Интерактивная историческая карта с панорамами 360° и оптимизацией через CDN | Next.js, Leaflet, Pannellum, Cloudinary |
 | **[EngPuse - интернет школа английкого языка](https://engpulse.ru)** *(private repo)* | Интернет-магазин с интеграциями, платежной системой и API Moodle | 1C Bitrix, API MOODLE |
 | **[IT-Baikal](https://github.com/BymBu/IT-baikal)** | 3D-визуализация данных озера Байкал с физическим движком воды | Vue 3, Three.js, Laravel API |
